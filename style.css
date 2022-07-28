@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-item:after {
+    content:"";
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:rgba(0,0,0,0.6);
+  }
+.carousel-caption{
+    z-index: +1;
+}
+.bg-explore{
+    background-color: #F4FAFD;
+}
+.bg-join{
+    background-color: #289BDE;
+}
+.bg-join-button{
+    color: #289BDE;
+}
