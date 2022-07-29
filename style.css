@@ -44,10 +44,6 @@
     width: 50px;
 }
 
-.button {
-    z-index: +1;
-}
-
 .left-arrow {
     color: #289BDE;
     height: 50px;
